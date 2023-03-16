@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - makes you enter the program
-*return - return the value or outcome
+*main -  makes you enter the program
+*return -  return the value or outcome
 */
 
 int main(void)
