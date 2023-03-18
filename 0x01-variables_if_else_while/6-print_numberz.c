@@ -1,16 +1,16 @@
 #include <stdio.h>
 /**
  * main - prints numbers 0-9 without using char or printf
- * Return: always zero
+ * Return: 0 on success
  */
 int main(void)
 {
-	int n = 0;
+	int i = '0';
 
-	while (n < 10)
+	while (i <= '9')
 	{
-		putchar(n);
-		n++;
+		putchar(i);
+		i++;
 	}
 	putchar('\n');
 	return (0);
