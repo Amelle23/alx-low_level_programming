@@ -2,6 +2,7 @@
 #define _DOG_
 
 /**
+ * dog_t - Typedef for struct dog
  * struct dog - it is used to store details about the dogs
  * @name: name of pet
  * @age: age of pet
