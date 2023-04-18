@@ -1,7 +1,8 @@
-#ifndef _POPPY_
-#define _POPPY_
+#ifndef _DOG_
+#define _DOG_
 
 typedef struct dog dog_t;
+
 struct dog
 {
 	char *name;
